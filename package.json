@@ -5,6 +5,8 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"keywords": ["freecodecamp", "API", "Backend"],
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -12,5 +14,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Asamoah45/Backend-Development-API"
-	}
+	},
+	"version": "1.0.0"
 }
