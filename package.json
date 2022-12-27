@@ -3,7 +3,8 @@
 	"author": "Markel Azpiroz",
 	"description": "FreeCodeCamp Back End Development - API exercise",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "@freecodecamp/example",
+		"express": "1.1.0"
 	},
 	"keywords": ["freecodecamp", "API", "Backend"],
 	"license": "MIT",
