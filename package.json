@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "BACKEND-DEVELOPMENT-API",
+	"author": "Markel Azpiroz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Asamoah45/Backend-Development-API"
 	}
 }
