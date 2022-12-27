@@ -1,6 +1,7 @@
 {
 	"name": "BACKEND-DEVELOPMENT-API",
 	"author": "Markel Azpiroz",
+	"description": "FreeCodeCamp Back End Development - API exercise",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
